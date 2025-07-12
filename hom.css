@@ -1,0 +1,38 @@
+.tt{
+    color: red;
+}
+body{
+    background-color: rgb(152, 152, 223);
+}
+.anh1{
+
+    background-color: white;
+    width: 150px;
+    height: 150px;
+}
+.anh2{
+
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 500px;
+    bottom: 170px;
+}
+.anh3{
+
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 70px;
+}
+.anh4{
+
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    left: 500px;
+    bottom: 220px;
+    position: relative;
+}
